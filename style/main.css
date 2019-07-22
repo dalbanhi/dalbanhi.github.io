@@ -58,7 +58,7 @@ body {
 }
 
 .italicized-text{
-	font-style: bold;
+	font-style: italic;
 }
 
 .black-subheader-text{
@@ -84,6 +84,11 @@ body {
 	font-style: italic;
 	font-size: 10px;
 	color: #000000;	
+}
+
+.purple-bold {
+	color: #500050;
+	font-weight: bold;
 }
 
 /* containers*/
@@ -120,6 +125,10 @@ body {
 .to-delete{
 	/*to delete*/
   	border: 1px solid black;
+}
+
+.anchor{
+	padding-top: 34px;
 }
 
 /* NavBar */
