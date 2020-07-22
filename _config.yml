@@ -1,6 +1,0 @@
-name: David Albán Hidalgo's Site
-markdown: kramdown
-
-
-plugins:
-	- jekyll-seo-tag
