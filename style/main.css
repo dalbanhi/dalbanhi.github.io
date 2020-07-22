@@ -295,6 +295,10 @@ a.navigation-link.active .underlined{
 
 }
 
+.center-text{
+	text-align: center;
+}
+
 .skill-div{
 	width: 125px;
 }
@@ -339,6 +343,14 @@ a.navigation-link.active .underlined{
 }
 
 /* Individual Projects and Experiences */
+
+#cafecito-quechua-logo{
+	background-image: url('../assets/project-imgs/cq-logo.png');
+}
+
+#atph-logo{
+	background-image: url('../assets/project-imgs/aspen-tech-logo.png');
+}
 
 #san-jose-moti-item-image{
 	background-image: url('../assets/project-imgs/san-jose-city-hall-square.jpg');
