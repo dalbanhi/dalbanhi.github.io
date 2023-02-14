@@ -344,6 +344,10 @@ a.navigation-link.active .underlined{
 
 /* Individual Projects and Experiences */
 
+#nueva-logo{
+	background-image: url('../assets/project-imgs/nueva-logo.jpg');
+}
+
 #cafecito-quechua-logo{
 	background-image: url('../assets/project-imgs/cq-logo.png');
 }
